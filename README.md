@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Swostika Basnet
 
 🎓 CS student passionate about backend development and data analysis  
-🔧 Building web applications and integrating ML models into real-world projects  
-🌱 Currently exploring scalable backend patterns, data-driven systems, and full-stack development  
+💻 Building web applications and integrating ML models into real-world projects  
+📚 Currently exploring scalable backend patterns, data-driven systems, and full-stack development  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** Django, Pandas, NumPy, Matplotlib, Scikit-learn  

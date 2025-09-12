@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Recent Project
 
 **News Classification Portal** – *Python, Django, Naïve Bayes, HTML, CSS* | [GitHub](#)  
 - Web portal to classify news articles automatically using Multinomial Naïve Bayes (**92% accuracy**)  

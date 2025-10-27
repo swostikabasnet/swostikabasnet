@@ -10,8 +10,7 @@
 
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** Django, Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Databases:** MySQL, SQLite  
-- **Frontend:** React (basic) 
+- **Databases:** MySQL, SQLite   
 - **Tools:** Power BI, Jupyter Notebook, PyCharm, GitHub  
 - **Data Analysis Skills:** Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization, Report Generation  
 

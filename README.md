@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Swostika Basnet
 
-🎓 CS student passionate about backend development and data analysis  
+🎓 CS student passionate about AI and data analysis  
 💻 Building web applications and integrating ML models into real-world projects  
-📚 Currently exploring scalable backend patterns, data-driven systems, and full-stack development  
+📚 Currently exploring AI, data-driven systems,  
 
 ---
 
@@ -11,5 +11,5 @@
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** Django, Pandas, NumPy, Matplotlib, Scikit-learn  
 - **Databases:** MySQL, SQLite   
-- **Tools:** Power BI, Jupyter Notebook, PyCharm, GitHub  
+- **Tools:** Power BI, Jupyter Notebook, GitHub  
 - **Data Analysis Skills:** Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization, Report Generation  

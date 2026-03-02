@@ -9,8 +9,7 @@
 ## 💻 QA & Testing Skills
 
 - **Testing Types:** Manual Testing, Functional Testing, Regression Testing, Smoke & Sanity Testing  
-- **API Testing Tools:** Postman, Insomnia  
-- **Bug Tracking / Project Tools:** Jira, Trello, GitHub Issues  
-- **Basic Automation:** Selenium (Python) – in progress  
+- **API Testing Tools:** Postman  
+- **Bug Tracking Tools:** Jira
 - **Documentation Skills:** Test Case Writing, Test Plan Preparation, Bug Reporting
 

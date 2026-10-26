@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Swostika Basnet
 
 🎓 Aspiring QA Tester | Passionate about software quality and testing  
-💻 Learning and practicing **manual testing, API testing, and automation basics**  
+💻 Learning and practicing manual testing, API testing, and automation basics 
 📚 Currently exploring QA tools and real-world testing scenarios    
 
 ---
